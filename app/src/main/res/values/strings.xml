@@ -1,0 +1,6 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusLock</string>
+    <string name="a11y_desc">Блокирует выбранные приложения во время фокус-сессии.</string>
+</resources>
